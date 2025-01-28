@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "PrimeService"
+		},
+		{
+			"path": "PrimeService.Tests"
+		}
+	],
+	"settings": {}
+}
